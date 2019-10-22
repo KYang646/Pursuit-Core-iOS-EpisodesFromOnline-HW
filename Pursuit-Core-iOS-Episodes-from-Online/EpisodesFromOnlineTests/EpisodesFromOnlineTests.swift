@@ -1,15 +1,15 @@
 //
-//  Pursuit_Core_iOS_Episodes_from_OnlineTests.swift
-//  Pursuit-Core-iOS-Episodes-from-OnlineTests
+//  EpisodesFromOnlineTests.swift
+//  EpisodesFromOnlineTests
 //
-//  Created by Benjamin Stone on 9/5/19.
-//  Copyright © 2019 Benjamin Stone. All rights reserved.
+//  Created by Kimball Yang on 9/6/19.
+//  Copyright © 2019 Kimball Yang. All rights reserved.
 //
 
 import XCTest
-@testable import Pursuit_Core_iOS_Episodes_from_Online
+@testable import EpisodesFromOnline
 
-class Pursuit_Core_iOS_Episodes_from_OnlineTests: XCTestCase {
+class EpisodesFromOnlineTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
